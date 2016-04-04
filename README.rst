@@ -155,3 +155,8 @@ consultancy in software development.  Less pain, more fun.
 .. _tox: https://testrun.org/tox/latest/
 .. _pull request: https://github.com/painless-software/codeship-yaml/pulls
 .. _Painless Software: https://painless.software/
+
+
+.. image:: https://badges.gitter.im/painless-software/codeship-yaml.svg
+   :alt: Join the chat at https://gitter.im/painless-software/codeship-yaml
+   :target: https://gitter.im/painless-software/codeship-yaml?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
